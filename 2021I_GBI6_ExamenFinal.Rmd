@@ -83,6 +83,7 @@ setwd("C:/Users/EQI7/Documents/examen/GBI6_ExamenFinal")
 
 ### [0.5 PUNTOS] 1.2. Cargue la data "mRNA_expr.csv"
 ```{r data}
+df <- read.csv("data/mRNA_expr.csv")
  
 ```
 
