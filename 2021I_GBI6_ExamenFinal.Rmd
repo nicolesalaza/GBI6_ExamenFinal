@@ -90,6 +90,8 @@ df <- read.csv("data/mRNA_expr.csv")
 
 ```{r funcion_long}
 # Escriba aquí la función long_df
+
+
 long_df <- function(df) {
   library(tidyr)
   library(dplyr)
